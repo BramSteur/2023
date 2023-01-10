@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#jaar, #Bram {
+    font-size: 100px;
+}
+
+#jaar {
+    margin-top: 50px;
+    margin-left: 495px;
+}
+
+#Bram {
+    margin-left: 505px;
+}
+
+.cirkel {
+    border: 3px solid #000000;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: #008000;
+    border-color: #0000ff;
+    float: left;
+    margin-left: 625px;
+    margin-top: 30px;
+}
+
+.vierkant {
+    height: 100px;
+    width: 100px;
+    background-color: #ffff00;
+    border: 3px solid #ff0000;
+    border-color: #ff0000;
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.link {
+    color: #000000;
+    margin-top: -30px;
+    margin-left: 720px;
+}
+
+.streep {
+    width: 1520px;
+    height: 3px;
+    background-color: #000000;
+    margin-top: 250px;
+}
+
+.formulier {
+    margin-top: 10px;
+    color: #000000;
+}
+
